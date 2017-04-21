@@ -1,0 +1,28 @@
+body {
+						background-color: #FFA07A;
+						font-family: 'Sofia';
+						font-size: 22px;
+						}
+h2,h4 {
+						position: center;
+						width: 700px;
+						text-align: center;
+						font-style: 'Sofia';
+						}
+p,center {
+						width: 700px;
+						font-style: 'Sofia';
+						font-size: 22px;
+						}
+.center {
+						margin: auto;
+						width: 50%;
+						border: 5px solid blue;
+						padding: 10px;
+						}
+.asd {
+						margin: auto;
+						width: 20%;
+						border: 5px solid blue;
+						padding: 20px;
+						}
